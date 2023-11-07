@@ -1,0 +1,8 @@
+Module 5 guidance
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.duplicated.html
+https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/
+https://python-charts.com/distribution/box-plot-matplotlib/#:~:text=The%20fill%20color%20of%20a,as%20in%20the%20following%20example.&text=The%20default%20color%20for%20the,passing%20a%20dict%20to%20medianprops%20.
+https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html
+Chatted with tutor, David P.
+Talked to Minh during office hours about scatter plot lists.
